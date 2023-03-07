@@ -1,2 +1,4 @@
 #this is a file we want to ignore and not add to github
 home.html
+#this is another file I want to ignore
+fileC.txt
